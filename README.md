@@ -4,7 +4,8 @@
 **Programa:** Ingeniería en Software / Tecnología en Desarrollo de Software  
 **Asignatura:** Arquitectura Big Data (7° Semestre)  
 **Actividad:** EA3. Enriquecimiento de Datos en Plataforma de Big Data en la Nube  
-**Dataset Base:** FIFA 20 Complete Player Dataset (`players_20.csv` - 18,278 registros)  
+**Dataset Base:** FIFA 20 Complete Player Dataset (`players_20.csv` - 18,278 registros)
+**Estudiante:** [Jonathan Alvarez Bustamante](https://github.com/jonalbu/Enriquesimiento_datos_Plataforma_Big_Data_Nube_diferentes_fuentes)  
 
 ---
 
@@ -13,12 +14,12 @@
 Esta actividad implementa la tercera fase fundamental del ciclo de vida de Big Data: **Enriquecimiento e Integración de Datos Heterogéneos**. En esta etapa se combinan los datos base limpios con fuentes complementarias en **6 formatos distintos (JSON, CSV, XML, HTML, TXT, XLSX)** para potenciar las capacidades analíticas previas a la etapa de modelado (Actividad 4).
 
 ### Fuentes Heterogéneas Integradas (6 Formatos):
-1. 📄 **JSON (`src/data/countries_info.json`):** Catálogo de 162 países con continente, confederación FIFA (UEFA, CONMEBOL, etc.), código ISO-3 y ranking tier (Cruce por `nationality`).
-2. 📊 **CSV (`src/data/club_leagues.csv`):** Catálogo de 698 clubes con nombre de liga, país de liga, categoría y bandera de ligas Top 5 (Cruce por `club`).
-3. 🏷️ **XML (`src/data/stadiums_info.xml`):** Información estructurada en XML con nombre de estadio y capacidad de aforo por club (Cruce por `club`).
-4. 🌐 **HTML (`src/data/national_trophies.html`):** Tabla web HTML con títulos de Copas del Mundo y trofeos continentales por país (Cruce por `nationality`).
-5. 📝 **TXT (`src/data/player_contracts_status.txt`):** Archivo plano delimitado por pipe (`|`) con nivel de contrato y estrellas de reputación (Cruce por `sofifa_id`).
-6. 📑 **XLSX (`src/data/sponsorship_tiers.xlsx`):** Hoja de cálculo Excel con información de patrocinadores principales y categoría comercial (Cruce por `club`).
+1. **JSON (`src/data/countries_info.json`):** Catálogo de 162 países con continente, confederación FIFA (UEFA, CONMEBOL, etc.), código ISO-3 y ranking tier (Cruce por `nationality`).
+2. **CSV (`src/data/club_leagues.csv`):** Catálogo de 698 clubes con nombre de liga, país de liga, categoría y bandera de ligas Top 5 (Cruce por `club`).
+3. **XML (`src/data/stadiums_info.xml`):** Información estructurada en XML con nombre de estadio y capacidad de aforo por club (Cruce por `club`).
+4. **HTML (`src/data/national_trophies.html`):** Tabla web HTML con títulos de Copas del Mundo y trofeos continentales por país (Cruce por `nationality`).
+5. **TXT (`src/data/player_contracts_status.txt`):** Archivo plano delimitado por pipe (`|`) con nivel de contrato y estrellas de reputación (Cruce por `sofifa_id`).
+6. **XLSX (`src/data/sponsorship_tiers.xlsx`):** Hoja de cálculo Excel con información de patrocinadores principales y categoría comercial (Cruce por `club`).
 
 ---
 
