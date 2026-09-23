@@ -1,0 +1,55 @@
+name: Big Data Enrichment Pipeline (EA3)
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+jobs:
+  enrich-and-audit:
+    name: Execute Data Enrichment & Integration Pipeline
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run data enrichment script
+        run: |
+          python src/enrichement.py
+
+      - name: Verify generated artifacts exist
+        run: |
+          echo "=== Verificando existencia de artefactos ==="
+          test -f src/db/ingestion.db || { echo "Error: Falta src/db/ingestion.db"; exit 1; }
+          test -f src/xlsx/enriched_data.xlsx || { echo "Error: Falta src/xlsx/enriched_data.xlsx"; exit 1; }
+          test -f src/static/auditoria/enriched_report.txt || { echo "Error: Falta src/static/auditoria/enriched_report.txt"; exit 1; }
+          echo "Todos los artefactos de enriquecimiento fueron generados correctamente."
+
+      - name: Display Enrichment Audit Log
+        run: |
+          echo "=== Contenido del Reporte de Auditoria de Enriquecimiento ==="
+          cat src/static/auditoria/enriched_report.txt
+
+      - name: Upload Enriched Data Artifacts (DB, Excel Sample, Audit Report)
+        uses: actions/upload-artifact@v4
+        with:
+          name: enrichment-evidences
+          path: |
+            src/db/ingestion.db
+            src/xlsx/enriched_data.xlsx
+            src/static/auditoria/enriched_report.txt
+          retention-days: 30

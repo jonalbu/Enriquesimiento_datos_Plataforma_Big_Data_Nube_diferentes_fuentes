@@ -1,0 +1,1136 @@
+[
+  {
+    "nationality": "Argentina",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "ARG",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Portugal",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "POR",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Brazil",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "BRA",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Slovenia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SLO",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Belgium",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "BEL",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Germany",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "GER",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Netherlands",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "NED",
+    "fifa_ranking_tier": "Top 20"
+  },
+  {
+    "nationality": "Croatia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "CRO",
+    "fifa_ranking_tier": "Top 20"
+  },
+  {
+    "nationality": "Egypt",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "EGY",
+    "fifa_ranking_tier": "Top 40"
+  },
+  {
+    "nationality": "France",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "FRA",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Senegal",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "SEN",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "England",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ENG",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Spain",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ESP",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Italy",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ITA",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Uruguay",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "URU",
+    "fifa_ranking_tier": "Top 10"
+  },
+  {
+    "nationality": "Poland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "POL",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Denmark",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "DEN",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Gabon",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GAB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Korea Republic",
+    "continent": "Asia",
+    "fifa_confederation": "AFC",
+    "country_iso3": "KOR",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Costa Rica",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "COS",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Slovakia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SLO",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Bosnia Herzegovina",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "BOS",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Serbia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SER",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Scotland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SCO",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Hungary",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "HUN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Switzerland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SUI",
+    "fifa_ranking_tier": "Top 20"
+  },
+  {
+    "nationality": "Greece",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GRE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Austria",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "AUT",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Morocco",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "MAR",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Sweden",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SWE",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Wales",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "WAL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Colombia",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "COL",
+    "fifa_ranking_tier": "Top 20"
+  },
+  {
+    "nationality": "Czech Republic",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "CZE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Chile",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "CHI",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Algeria",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "ALG",
+    "fifa_ranking_tier": "Top 40"
+  },
+  {
+    "nationality": "Ivory Coast",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "CIV",
+    "fifa_ranking_tier": "Top 40"
+  },
+  {
+    "nationality": "Togo",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "TOG",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Norway",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "NOR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Mexico",
+    "continent": "North America",
+    "fifa_confederation": "CONCACAF",
+    "country_iso3": "MEX",
+    "fifa_ranking_tier": "Top 20"
+  },
+  {
+    "nationality": "Iceland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ICE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Finland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "FIN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Jamaica",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "JAM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Albania",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ALB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Guinea",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GUI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Cameroon",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "CMR",
+    "fifa_ranking_tier": "Top 50"
+  },
+  {
+    "nationality": "Ghana",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "GHA",
+    "fifa_ranking_tier": "Top 50"
+  },
+  {
+    "nationality": "Montenegro",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "MON",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Ukraine",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "UKR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Russia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "RUS",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "DR Congo",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "DR ",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Central African Rep.",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "CEN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Venezuela",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "VEN",
+    "fifa_ranking_tier": "Top 50"
+  },
+  {
+    "nationality": "Nigeria",
+    "continent": "Africa",
+    "fifa_confederation": "CAF",
+    "country_iso3": "NGA",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Armenia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ARM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Israel",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "ISR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Ecuador",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "ECU",
+    "fifa_ranking_tier": "Top 50"
+  },
+  {
+    "nationality": "Paraguay",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "PAR",
+    "fifa_ranking_tier": "Top 50"
+  },
+  {
+    "nationality": "Australia",
+    "continent": "Oceania",
+    "fifa_confederation": "AFC",
+    "country_iso3": "AUS",
+    "fifa_ranking_tier": "Top 40"
+  },
+  {
+    "nationality": "Turkey",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "TUR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Romania",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ROM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Japan",
+    "continent": "Asia",
+    "fifa_confederation": "AFC",
+    "country_iso3": "JPN",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Mali",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MAL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "United States",
+    "continent": "North America",
+    "fifa_confederation": "CONCACAF",
+    "country_iso3": "USA",
+    "fifa_ranking_tier": "Top 20"
+  },
+  {
+    "nationality": "Kosovo",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "KOS",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Dominican Republic",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "DOM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Tanzania",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "TAN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "China PR",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CHI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Northern Ireland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "NOR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Republic of Ireland",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "REP",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Tunisia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "TUN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Cape Verde",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CAP",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "FYR Macedonia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "FYR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Burkina Faso",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "BUR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Kenya",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "KEN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Angola",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "ANG",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "South Africa",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SOU",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Peru",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "PER",
+    "fifa_ranking_tier": "Top 30"
+  },
+  {
+    "nationality": "Syria",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SYR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Gambia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "GAM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "New Zealand",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "NEW",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Equatorial Guinea",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "EQU",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Zimbabwe",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "ZIM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Georgia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "GEO",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Canada",
+    "continent": "North America",
+    "fifa_confederation": "CONCACAF",
+    "country_iso3": "CAN",
+    "fifa_ranking_tier": "Top 50"
+  },
+  {
+    "nationality": "Estonia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "EST",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Benin",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "BEN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Bulgaria",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "BUL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Mozambique",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MOZ",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Honduras",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "HON",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Guinea Bissau",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GUI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Iran",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "IRA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Philippines",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "PHI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Cyprus",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CYP",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Madagascar",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MAD",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Uzbekistan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "UZB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Moldova",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MOL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Cuba",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CUB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Sierra Leone",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "SIE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Curacao",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CUR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Zambia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ZAM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Congo",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CON",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Bolivia",
+    "continent": "South America",
+    "fifa_confederation": "CONMEBOL",
+    "country_iso3": "BOL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Comoros",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "COM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Iraq",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "IRA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Chad",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CHA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Lithuania",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "LIT",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Saudi Arabia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "SAU",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Panama",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "PAN",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Libya",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "LIB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Bahrain",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "BAH",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "St Kitts Nevis",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "ST ",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "New Caledonia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "NEW",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Luxembourg",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "LUX",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Trinidad & Tobago",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "TRI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Thailand",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "THA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "United Arab Emirates",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "UNI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Eritrea",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "ERI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Korea DPR",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "KOR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "El Salvador",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "EL ",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Azerbaijan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "AZE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Latvia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "LAT",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Montserrat",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MON",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Puerto Rico",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "PUE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Bermuda",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "BER",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "São Tomé & Príncipe",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "SÃO",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Antigua & Barbuda",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "ANT",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Burundi",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "BUR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Kazakhstan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "KAZ",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Liberia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "LIB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Guyana",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GUY",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Haiti",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "HAI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Jordan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "JOR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Faroe Islands",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "FAR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Mauritania",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "MAU",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Namibia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "NAM",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Rwanda",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "RWA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Uganda",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "UGA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Hong Kong",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "HON",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Chinese Taipei",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "CHI",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Belize",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "BEL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Palestine",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "PAL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Mauritius",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MAU",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Guam",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GUA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Suriname",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "SUR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Lebanon",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "LEB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Guatemala",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GUA",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Sudan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "SUD",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Liechtenstein",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "LIE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Grenada",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "GRE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "St Lucia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ST ",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Afghanistan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "AFG",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Ethiopia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "ETH",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Barbados",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "BAR",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "India",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "IND",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Malta",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MAL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Niger",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "NIG",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Vietnam",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "VIE",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Malawi",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MAL",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Gibraltar",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "GIB",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Macau",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "MAC",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "South Sudan",
+    "continent": "Rest of World",
+    "fifa_confederation": "FIFA-Member",
+    "country_iso3": "SOU",
+    "fifa_ranking_tier": "Tier Rest"
+  },
+  {
+    "nationality": "Indonesia",
+    "continent": "Europe",
+    "fifa_confederation": "UEFA",
+    "country_iso3": "IND",
+    "fifa_ranking_tier": "Tier Rest"
+  }
+]

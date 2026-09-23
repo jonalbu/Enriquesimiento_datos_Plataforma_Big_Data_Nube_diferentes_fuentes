@@ -1,0 +1,51 @@
+================================================================================
+          REPORTE DE AUDITORIA DE ENRIQUECIMIENTO DE DATOS (EA3)
+================================================================================
+Asignatura : Arquitectura Big Data
+Actividad  : EA3. Enriquecimiento de Datos en Plataforma de Big Data en la Nube
+Fecha/Hora : 2026-09-22 20:03:19
+Origen BD  : C:\Users\jonal\OneDrive\Documentos\9_IU Digital\7 Semestre\Arquitectura Big Data\Tarea_3\players_20.csv
+Destino BD : C:\Users\jonal\OneDrive\Documentos\9_IU Digital\7 Semestre\Arquitectura Big Data\Tarea_3\src\db\ingestion.db (Tabla: enriched_players)
+================================================================================
+
+1. RESUMEN DE DIMENSIONES: ANTES VS DESPUES DEL ENRIQUECIMIENTO
+--------------------------------------------------------------------------------
+Metrica                         | Dataset Base Limpio    | Dataset Enriquecido
+--------------------------------------------------------------------------------
+Total de Registros (Filas)      | 18278                  | 18278               
+Total de Columnas (Atributos)   | 24                     | 36                  
+Nuevas Columnas Agregadas       | 0                      | 12
+--------------------------------------------------------------------------------
+
+2. FUENTES HETEROGENEAS INTEGRADAS Y AUDITORIA DE CRUCE (JOINS):
+--------------------------------------------------------------------------------
+a) Fuente 1: Paises y Confederaciones FIFA (Formato JSON: countries_info.json)
+   - Clave de Cruce                 : 'nationality'
+   - Registros en catalogo JSON     : 162
+   - Registros cruzados exitosamente: 18278 (100.00%)
+   - Nuevos atributos integrados    : 'continent', 'fifa_confederation', 'country_iso3', 'fifa_ranking_tier'
+
+b) Fuente 2: Ligas y Prestigio de Clubes (Formato CSV: club_leagues.csv)
+   - Clave de Cruce                 : 'club'
+   - Registros en catalogo CSV      : 698
+   - Registros cruzados exitosamente: 18278 (100.00%)
+   - Nuevos atributos integrados    : 'league_name', 'league_country', 'league_tier', 'is_top_5_european_league'
+
+3. INGENIERIA DE VARIABLES Y TRANSFORMACIONES ENRIQUECIDAS:
+--------------------------------------------------------------------------------
+- 'wage_tier'              : Clasificacion salarial en 4 estratos (Base, Medio, Alto, Elite).
+- 'market_value_tier'      : Segmentacion de mercado (Desarrollo, Profesional, Estelar, Superstar).
+- 'is_intercontinental'    : Bandera para talentos no europeos en ligas top (Total: 147 jugadores).
+- 'star_rating_index'      : Score analitico ponderado de rendimiento + mercado [0.0 - 1.0].
+- Jugadores en Ligas Top 5 : 596 jugadores identificados.
+
+4. VERIFICACION DE CALIDAD E INTEGRIDAD REFERENCIAL:
+--------------------------------------------------------------------------------
+- Consistencia en clave primaria ('sofifa_id') : 100% de unicidad garantizada.
+- Perdida de registros en Joins                : 0 registros perdidos (LEFT JOIN validado).
+- Nulos en campos agregados                    : 0 nulos residuales (Imputacion por defecto aplicada).
+- Estado de integridad estructural             : OPTIMO
+
+================================================================================
+ESTADO FINAL DEL ENRIQUECIMIENTO: EXITOSO - DATOS LISTOS PARA MODELADO (EA4)
+================================================================================

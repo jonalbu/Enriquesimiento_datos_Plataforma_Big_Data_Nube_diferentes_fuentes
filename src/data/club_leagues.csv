@@ -1,0 +1,699 @@
+club,league_name,league_country,league_tier,is_top_5_european_league
+FC Barcelona,LaLiga,Spain,1,1
+Juventus,Serie A,Italy,1,1
+Paris Saint-Germain,Ligue 1,France,1,1
+Atlético Madrid,LaLiga,Spain,1,1
+Real Madrid,LaLiga,Spain,1,1
+Manchester City,Premier League,England,1,1
+Liverpool,Premier League,England,1,1
+Napoli,Serie A,Italy,1,1
+Tottenham Hotspur,Premier League,England,1,1
+Manchester United,Premier League,England,1,1
+Chelsea,Premier League,England,1,1
+FC Bayern München,Bundesliga,Germany,1,1
+Inter,Serie A,Italy,1,1
+Borussia Dortmund,Bundesliga,Germany,1,1
+Arsenal,Premier League,England,1,1
+Valencia CF,National League,International,1,0
+Lazio,National League,International,1,0
+Milan,Serie A,Italy,1,1
+Sporting CP,National League,International,1,0
+Olympique Lyonnais,Ligue 1,France,1,1
+RB Leipzig,Bundesliga,Germany,1,1
+Ajax,National League,International,1,0
+LA Galaxy,National League,International,1,0
+Atalanta,National League,International,1,0
+RC Celta,National League,International,1,0
+Bayer 04 Leverkusen,National League,International,1,0
+Real Betis,National League,International,1,0
+FC Porto,National League,International,1,0
+SV Werder Bremen,National League,International,1,0
+West Ham United,National League,International,1,0
+Wolverhampton Wanderers,National League,International,1,0
+AS Saint-Étienne,National League,International,1,0
+Torino,National League,International,1,0
+Dalian YiFang FC,National League,International,1,0
+Borussia Mönchengladbach,National League,International,1,0
+Roma,National League,International,1,0
+Guangzhou Evergrande Taobao FC,National League,International,1,0
+SL Benfica,National League,International,1,0
+Medipol Başakşehir FK,National League,International,1,0
+Everton,National League,International,1,0
+VfL Wolfsburg,National League,International,1,0
+Crystal Palace,National League,International,1,0
+Getafe CF,National League,International,1,0
+Shanghai SIPG FC,National League,International,1,0
+Eintracht Frankfurt,National League,International,1,0
+Olympique de Marseille,Ligue 1,France,1,1
+Hertha BSC,National League,International,1,0
+RSC Anderlecht,National League,International,1,0
+Villarreal CF,National League,International,1,0
+Sampdoria,National League,International,1,0
+Leicester City,National League,International,1,0
+AS Monaco,National League,International,1,0
+Jiangsu Suning FC,National League,International,1,0
+Los Angeles FC,National League,International,1,0
+Cagliari,National League,International,1,0
+Sevilla FC,National League,International,1,0
+Fenerbahçe SK,National League,International,1,0
+Real Sociedad,National League,International,1,0
+TSG 1899 Hoffenheim,National League,International,1,0
+Atlético Mineiro,National League,International,1,0
+Grêmio,National League,International,1,0
+PSV,National League,International,1,0
+Athletic Club de Bilbao,National League,International,1,0
+Deportivo Alavés,National League,International,1,0
+Boca Juniors,National League,International,1,0
+Lokomotiv Moscow,National League,International,1,0
+Al Nassr,National League,International,1,0
+Brescia,National League,International,1,0
+Shakhtar Donetsk,National League,International,1,0
+Shanghai Greenland Shenhua FC,National League,International,1,0
+PFC CSKA Moscow,National League,International,1,0
+Beijing Sinobo Guoan FC,National League,International,1,0
+Levante UD,National League,International,1,0
+Cruzeiro,National League,International,1,0
+Uruguay,National League,International,1,0
+Montpellier HSC,National League,International,1,0
+Atlanta United,National League,International,1,0
+Watford,National League,International,1,0
+1. FC Köln,National League,International,1,0
+Bournemouth,National League,International,1,0
+Beşiktaş JK,National League,International,1,0
+Real Valladolid CF,National League,International,1,0
+Racing Club,National League,International,1,0
+Al Hilal,National League,International,1,0
+Guangzhou R&F FC,National League,International,1,0
+Sassuolo,National League,International,1,0
+FC Girondins de Bordeaux,National League,International,1,0
+LOSC Lille,National League,International,1,0
+Galatasaray SK,National League,International,1,0
+Chicago Fire,National League,International,1,0
+Fluminense,National League,International,1,0
+Ecuador,National League,International,1,0
+RCD Espanyol,National League,International,1,0
+Dinamo Zagreb,National League,International,1,0
+FC Nantes,National League,International,1,0
+River Plate,National League,International,1,0
+OGC Nice,National League,International,1,0
+Newcastle United,National League,International,1,0
+Brighton & Hove Albion,National League,International,1,0
+Club Brugge KV,National League,International,1,0
+FC Schalke 04,National League,International,1,0
+SD Eibar,National League,International,1,0
+DC United,National League,International,1,0
+Orlando City SC,National League,International,1,0
+Hebei China Fortune FC,National League,International,1,0
+Tigres U.A.N.L.,National League,International,1,0
+Aston Villa,National League,International,1,0
+Montreal Impact,National League,International,1,0
+Olympiacos CFP,National League,International,1,0
+Norwich City,National League,International,1,0
+Feyenoord,National League,International,1,0
+Toronto FC,National League,International,1,0
+KRC Genk,National League,International,1,0
+Fiorentina,National League,International,1,0
+Spartak Moscow,National League,International,1,0
+Dynamo Kyiv,National League,International,1,0
+SK Slavia Praha,National League,International,1,0
+Southampton,National League,International,1,0
+Burnley,National League,International,1,0
+SC Braga,National League,International,1,0
+Russia,National League,International,1,0
+RC Strasbourg Alsace,National League,International,1,0
+Wuhan Zall,National League,International,1,0
+Vissel Kobe,National League,International,1,0
+Portland Timbers,National League,International,1,0
+Genoa,National League,International,1,0
+Beijing Renhe FC,National League,International,1,0
+Toulouse Football Club,National League,International,1,0
+Girona FC,National League,International,1,0
+Real Zaragoza,National League,International,1,0
+CD Leganés,National League,International,1,0
+Shenzhen FC,National League,International,1,0
+Internacional,National League,International,1,0
+CSA - AL,National League,International,1,0
+Santos,National League,International,1,0
+1. FSV Mainz 05,National League,International,1,0
+Stoke City,National League,International,1,0
+Udinese,National League,International,1,0
+Colombia,National League,International,1,0
+Angers SCO,National League,International,1,0
+FC Augsburg,National League,International,1,0
+Netherlands,National League,International,1,0
+Fulham,National League,International,1,0
+FC København,National League,International,1,0
+KAA Gent,National League,International,1,0
+SC Freiburg,National League,International,1,0
+Stade Rennais FC,National League,International,1,0
+Club América,National League,International,1,0
+Trabzonspor,National League,International,1,0
+BSC Young Boys,National League,International,1,0
+Helsingborgs IF,National League,International,1,0
+Kaizer Chiefs,National League,International,1,0
+Parma,National League,International,1,0
+Mexico,National League,International,1,0
+Royal Antwerp FC,National League,International,1,0
+Tianjin TEDA FC,National League,International,1,0
+Hannover 96,National League,International,1,0
+Tianjin Quanjian FC,National League,International,1,0
+Al Ahli,National League,International,1,0
+Bologna,National League,International,1,0
+VfB Stuttgart,National League,International,1,0
+Seattle Sounders FC,National League,International,1,0
+Godoy Cruz,National League,International,1,0
+Sparta Praha,National League,International,1,0
+Independiente Medellín,National League,International,1,0
+Sivasspor,National League,International,1,0
+Independiente,National League,International,1,0
+Nîmes Olympique,National League,International,1,0
+Club Tijuana,National League,International,1,0
+SPAL,National League,International,1,0
+Monterrey,National League,International,1,0
+CD Tondela,National League,International,1,0
+Fortuna Düsseldorf,National League,International,1,0
+Vitória Guimarães,National League,International,1,0
+AZ Alkmaar,National League,International,1,0
+Atlético de San Luis,National League,International,1,0
+PAOK,National League,International,1,0
+Nagoya Grampus,National League,International,1,0
+Club Atlético Banfield,National League,International,1,0
+Shandong Luneng TaiShan FC,National League,International,1,0
+New York Red Bulls,National League,International,1,0
+FC Red Bull Salzburg,National League,International,1,0
+Sweden,National League,International,1,0
+Amiens SC,National League,International,1,0
+Hellas Verona,National League,International,1,0
+Cruz Azul,National League,International,1,0
+Gençlerbirliği SK,National League,International,1,0
+1. FC Union Berlin,National League,International,1,0
+Standard de Liège,National League,International,1,0
+Chongqing Dangdai Lifan FC SWM Team,National League,International,1,0
+New England Revolution,National League,International,1,0
+Club Atlético Colón,National League,International,1,0
+Celtic,National League,International,1,0
+Club Atlas,National League,International,1,0
+Botafogo,National League,International,1,0
+En Avant de Guingamp,National League,International,1,0
+West Bromwich Albion,National League,International,1,0
+Pachuca,National League,International,1,0
+AEK Athens,National League,International,1,0
+Portimonense SC,National League,International,1,0
+Real Salt Lake,National League,International,1,0
+FC Utrecht,National League,International,1,0
+Sheffield United,National League,International,1,0
+Newell's Old Boys,National League,International,1,0
+Club Atlético Talleres,National League,International,1,0
+Philadelphia Union,National League,International,1,0
+Rosenborg BK,National League,International,1,0
+FC Basel 1893,National League,International,1,0
+Brentford,National League,International,1,0
+Club León,National League,International,1,0
+Unión de Santa Fe,National League,International,1,0
+Deportivo de La Coruña,National League,International,1,0
+Rangers FC,National League,International,1,0
+Turkey,National League,International,1,0
+Atiker Konyaspor,National League,International,1,0
+Granada CF,National League,International,1,0
+Perth Glory,National League,International,1,0
+Club Atlético Lanús,National League,International,1,0
+Hamburger SV,National League,International,1,0
+Al Ittihad,National League,International,1,0
+Santos Laguna,National League,International,1,0
+Western United FC,National League,International,1,0
+Columbus Crew SC,National League,International,1,0
+Deportivo Toluca,National League,International,1,0
+Cardiff City,National League,International,1,0
+CA Osasuna,National League,International,1,0
+Swansea City,National League,International,1,0
+Melbourne Victory,National League,International,1,0
+Leeds United,National League,International,1,0
+Göztepe SK,National League,International,1,0
+Hungary,National League,International,1,0
+New York City FC,National League,International,1,0
+Bulgaria,National League,International,1,0
+Kayserispor,National League,International,1,0
+Minnesota United FC,National League,International,1,0
+Guadalajara,National League,International,1,0
+FC Groningen,National League,International,1,0
+Paraguay,National League,International,1,0
+Junior FC,National League,International,1,0
+Al Taawoun,National League,International,1,0
+Huddersfield Town,National League,International,1,0
+Ettifaq FC,National League,International,1,0
+Stade de Reims,National League,International,1,0
+Rayo Vallecano,National League,International,1,0
+San Lorenzo de Almagro,National League,International,1,0
+Bahia,National League,International,1,0
+Atlético Paranaense,National League,International,1,0
+Goiás,National League,International,1,0
+Avaí FC,National League,International,1,0
+Fortaleza,National League,International,1,0
+Kawasaki Frontale,National League,International,1,0
+Vélez Sarsfield,National League,International,1,0
+Hull City,National League,International,1,0
+Houston Dynamo,National League,International,1,0
+Birmingham City,National League,International,1,0
+Al Wehda,National League,International,1,0
+Nottingham Forest,National League,International,1,0
+CD Tenerife,National League,International,1,0
+Aalborg BK,National League,International,1,0
+Preston North End,National League,International,1,0
+Bristol City,National League,International,1,0
+Lecce,National League,International,1,0
+Gimnasia y Esgrima La Plata,National League,International,1,0
+CD Aves,National League,International,1,0
+Viktoria Plzeň,National League,International,1,0
+1. FC Nürnberg,National League,International,1,0
+Slovenia,National League,International,1,0
+FC Metz,National League,International,1,0
+FC Midtjylland,National League,International,1,0
+Molde FK,National League,International,1,0
+Colo-Colo,National League,International,1,0
+RCD Mallorca,National League,International,1,0
+FC Sion,National League,International,1,0
+Wisła Kraków,National League,International,1,0
+Denizlispor,National League,International,1,0
+Middlesbrough,National League,International,1,0
+Universidad Católica,National League,International,1,0
+Alanyaspor,National League,International,1,0
+Moreirense FC,National League,International,1,0
+Côte d'Ivoire,National League,International,1,0
+Stade Brestois 29,National League,International,1,0
+Chievo Verona,National League,International,1,0
+Boavista FC,National League,International,1,0
+MKE Ankaragücü,National League,International,1,0
+Sydney FC,National League,International,1,0
+Al Ain FC,National League,International,1,0
+Yeni Malatyaspor,National League,International,1,0
+Urawa Red Diamonds,National League,International,1,0
+Querétaro,National League,International,1,0
+Sporting Kansas City,National League,International,1,0
+Málaga CF,National League,International,1,0
+1. FC Heidenheim 1846,National League,International,1,0
+Atlético Tucumán,National League,International,1,0
+Gazişehir Gaziantep F.K.,National League,International,1,0
+Clube Sport Marítimo,National League,International,1,0
+Chapecoense,National League,International,1,0
+Atlético Nacional,National League,International,1,0
+Vitesse,National League,International,1,0
+Australia,National League,International,1,0
+Henan Jianye FC,National League,International,1,0
+Panathinaikos FC,National League,International,1,0
+Blackburn Rovers,National League,International,1,0
+Santa Clara,National League,International,1,0
+Cameroon,National League,International,1,0
+Puebla FC,National League,International,1,0
+U.N.A.M.,National League,International,1,0
+SD Huesca,National League,International,1,0
+Estudiantes de La Plata,National League,International,1,0
+Austria,National League,International,1,0
+KAS Eupen,National League,International,1,0
+LASK Linz,National League,International,1,0
+Sporting de Charleroi,National League,International,1,0
+Daegu FC,National League,International,1,0
+Real Sporting de Gijón,National League,International,1,0
+Derby County,National League,International,1,0
+Rio Ave FC,National League,International,1,0
+South Africa,National League,International,1,0
+Famalicão,National League,International,1,0
+Neuchâtel Xamax,National League,International,1,0
+Benevento,National League,International,1,0
+Cádiz CF,National League,International,1,0
+AIK,National League,International,1,0
+Sheffield Wednesday,National League,International,1,0
+Empoli,National League,International,1,0
+Colorado Rapids,National League,International,1,0
+Os Belenenses,National League,International,1,0
+Unión Magdalena,National League,International,1,0
+Real Oviedo,National League,International,1,0
+Peru,National League,International,1,0
+Antalyaspor,National League,International,1,0
+Dijon FCO,National League,International,1,0
+SV Sandhausen,National League,International,1,0
+Rosario Central,National League,International,1,0
+Reading,National League,International,1,0
+DSC Arminia Bielefeld,National League,International,1,0
+Malmö FF,National League,International,1,0
+Jeonbuk Hyundai Motors,National League,International,1,0
+Frosinone,National League,International,1,0
+FC Tokyo,National League,International,1,0
+Canada,National League,International,1,0
+Çaykur Rizespor,National League,International,1,0
+FCSB (Steaua),National League,International,1,0
+Defensa y Justicia,National League,International,1,0
+Monarcas Morelia,National League,International,1,0
+Club Atlético Huracán,National League,International,1,0
+Ceará Sporting Club,National League,International,1,0
+Argentinos Juniors,National League,International,1,0
+Al Shabab,National League,International,1,0
+Legia Warszawa,National League,International,1,0
+Shimizu S-Pulse,National League,International,1,0
+Millonarios FC,National League,International,1,0
+Lechia Gdańsk,National League,International,1,0
+Brøndby IF,National League,International,1,0
+Albacete BP,National League,International,1,0
+FC Lorient,National League,International,1,0
+Universitatea Craiova,National League,International,1,0
+Deportivo Cali,National League,International,1,0
+SK Rapid Wien,National League,International,1,0
+Kashima Antlers,National League,International,1,0
+Poland,National League,International,1,0
+Elche CF,National League,International,1,0
+Club Atlético Aldosivi,National League,International,1,0
+Deportes Tolima,National League,International,1,0
+Cúcuta Deportivo,National League,International,1,0
+Club Necaxa,National League,International,1,0
+Piast Gliwice,National League,International,1,0
+Pescara,National League,International,1,0
+Kasimpaşa SK,National League,International,1,0
+Egypt,National League,International,1,0
+Holstein Kiel,National League,International,1,0
+Livorno,National League,International,1,0
+Coquimbo Unido,National League,International,1,0
+UD Las Palmas,National League,International,1,0
+Górnik Zabrze,National League,International,1,0
+FC Twente,National League,International,1,0
+Paris FC,National League,International,1,0
+Racing Club de Lens,National League,International,1,0
+VfL Bochum 1848,National League,International,1,0
+Sunderland,National League,International,1,0
+Aberdeen,National League,International,1,0
+Heart of Midlothian,National League,International,1,0
+Romania,National League,International,1,0
+Crotone,National League,International,1,0
+Iceland,National League,International,1,0
+CFR Cluj,National League,International,1,0
+FK Austria Wien,National League,International,1,0
+UD Almería,National League,International,1,0
+SK Brann,National League,International,1,0
+BK Häcken,National League,International,1,0
+Al Fateh,National League,International,1,0
+CD Everton de Viña del Mar,National League,International,1,0
+FC St. Pauli,National League,International,1,0
+Gamba Osaka,National League,International,1,0
+Yokohama F. Marinos,National League,International,1,0
+Djurgårdens IF,National League,International,1,0
+FC Dallas,National League,International,1,0
+Sagan Tosu,National League,International,1,0
+Al Fayha,National League,International,1,0
+Chile,National League,International,1,0
+Once Caldas,National League,International,1,0
+Atlético Bucaramanga,National League,International,1,0
+FC Cincinnati,National League,International,1,0
+San Jose Earthquakes,National League,International,1,0
+América de Cali,National League,International,1,0
+Perugia,National League,International,1,0
+La Equidad,National League,International,1,0
+SV Darmstadt 98,National League,International,1,0
+FC Zürich,National League,International,1,0
+SC Paderborn 07,National League,International,1,0
+SV Zulte-Waregem,National League,International,1,0
+IFK Norrköping,National League,International,1,0
+FC Viitorul,National League,International,1,0
+Pordenone,National League,International,1,0
+AD Alcorcón,National League,International,1,0
+Sint-Truidense VV,National League,International,1,0
+KV Kortrijk,National League,International,1,0
+Royal Excel Mouscron,National League,International,1,0
+FC Lugano,National League,International,1,0
+Hokkaido Consadole Sapporo,National League,International,1,0
+Spezia,National League,International,1,0
+FC Paços de Ferreira,National League,International,1,0
+Servette FC,National League,International,1,0
+US Salernitana 1919,National League,International,1,0
+Lech Poznań,National League,International,1,0
+ESTAC Troyes,National League,International,1,0
+Fortuna Sittard,National League,International,1,0
+KV Oostende,National League,International,1,0
+VVV-Venlo,National League,International,1,0
+KSV Cercle Brugge,National League,International,1,0
+FC Seoul,National League,International,1,0
+Cerezo Osaka,National League,International,1,0
+Stade Malherbe Caen,National League,International,1,0
+Universidad de Chile,National League,International,1,0
+Kalmar FF,National League,International,1,0
+KV Mechelen,National League,International,1,0
+Deportes Iquique,National League,International,1,0
+US Cremonese,National League,International,1,0
+Bolivia,National League,International,1,0
+Valenciennes FC,National League,International,1,0
+Ulsan Hyundai FC,National League,International,1,0
+Vegalta Sendai,National League,International,1,0
+ADO Den Haag,National League,International,1,0
+CD Palestino,National League,International,1,0
+Cittadella,National League,International,1,0
+Vitória de Setúbal,National League,International,1,0
+FC Nordsjælland,National League,International,1,0
+Charlton Athletic,National League,International,1,0
+Al Raed,National League,International,1,0
+Jagiellonia Białystok,National League,International,1,0
+Odense Boldklub,National League,International,1,0
+FC Thun,National League,International,1,0
+SG Dynamo Dresden,National League,International,1,0
+Hammarby IF,National League,International,1,0
+Central Córdoba,National League,International,1,0
+Queens Park Rangers,National League,International,1,0
+ SSV Jahn Regensburg,National League,International,1,0
+Tiburones Rojos de Veracruz,National League,International,1,0
+Patronato,National League,International,1,0
+Virtus Entella,National League,International,1,0
+SK Sturm Graz,National League,International,1,0
+Kilmarnock,National League,International,1,0
+Extremadura UD,National League,International,1,0
+Willem II,National League,International,1,0
+Gil Vicente FC,National League,International,1,0
+Randers FC,National League,International,1,0
+Ascoli,National League,International,1,0
+Vancouver Whitecaps FC,National League,International,1,0
+Millwall,National League,International,1,0
+Pohang Steelers,National League,International,1,0
+Suwon Samsung Bluewings,National League,International,1,0
+Heracles Almelo,National League,International,1,0
+Al Hazem,National League,International,1,0
+FC Juárez,National League,International,1,0
+SC Heerenveen,National League,International,1,0
+Dinamo Bucureşti,National League,International,1,0
+Gyeongnam FC,National League,International,1,0
+KFC Uerdingen 05,National League,International,1,0
+PEC Zwolle,National League,International,1,0
+Al Faisaly,National League,International,1,0
+Arsenal de Sarandí,National League,International,1,0
+FC Ingolstadt 04,National League,International,1,0
+Wolfsberger AC,National League,International,1,0
+Wigan Athletic,National League,International,1,0
+Júbilo Iwata,National League,International,1,0
+CD Lugo,National League,International,1,0
+SpVgg Greuther Fürth,National League,International,1,0
+FC Emmen,National League,International,1,0
+Cosenza,National League,International,1,0
+AJ Auxerre,National League,International,1,0
+Cracovia,National League,International,1,0
+FC Erzgebirge Aue,National League,International,1,0
+Grenoble Foot 38,National League,International,1,0
+Korona Kielce,National League,International,1,0
+Alianza Petrolera,National League,International,1,0
+CD Universidad de Concepción,National League,International,1,0
+Melbourne City FC,National League,International,1,0
+CD Antofagasta,National League,International,1,0
+Independiente Santa Fe,National League,International,1,0
+Sanfrecce Hiroshima,National League,International,1,0
+Damac FC,National League,International,1,0
+Chamois Niortais Football Club,National League,International,1,0
+Atlético Huila,National League,International,1,0
+CD Numancia,National League,International,1,0
+Luton Town,National League,International,1,0
+Unión La Calera,National League,International,1,0
+Le Havre AC,National League,International,1,0
+AS Nancy Lorraine,National League,International,1,0
+Audax Italiano,National League,International,1,0
+Hibernian,National League,International,1,0
+Barnsley,National League,International,1,0
+Pogoń Szczecin,National League,International,1,0
+Sarpsborg 08 FF,National League,International,1,0
+Kristiansund BK,National League,International,1,0
+FC Luzern,National League,International,1,0
+Unión Española,National League,International,1,0
+IFK Göteborg,National League,International,1,0
+Envigado FC,National League,International,1,0
+Jeju United FC,National League,International,1,0
+Patriotas Boyacá FC,National League,International,1,0
+Peterborough United,National League,International,1,0
+Deportivo Pasto,National League,International,1,0
+Wales,National League,International,1,0
+Clermont Foot 63,National League,International,1,0
+Northern Ireland,National League,International,1,0
+Astra Giurgiu,National League,International,1,0
+Racing Santander,National League,International,1,0
+Pisa,National League,International,1,0
+Newcastle Jets,National League,International,1,0
+Castellammare di Stabia,National League,International,1,0
+Rionegro Águilas,National League,International,1,0
+Vålerenga Fotball,National League,International,1,0
+CD O'Higgins,National League,International,1,0
+AC Ajaccio,National League,International,1,0
+CF Fuenlabrada,National League,International,1,0
+VfL Osnabrück,National League,International,1,0
+Arka Gdynia,National League,International,1,0
+FC Sochaux-Montbéliard,National League,International,1,0
+SpVgg Unterhaching,National League,International,1,0
+Central Coast Mariners,National League,International,1,0
+SV Wehen Wiesbaden,National League,International,1,0
+Fleetwood Town,National League,International,1,0
+Venezia FC,National League,International,1,0
+Karlsruher SC,National League,International,1,0
+Wisła Płock,National League,International,1,0
+Gangwon FC,National League,International,1,0
+IF Elfsborg,National League,International,1,0
+Sangju Sangmu FC,National League,International,1,0
+Zagłębie Lubin,National League,International,1,0
+Abha Club,National League,International,1,0
+Jaguares de Córdoba,National League,International,1,0
+FC Botoşani,National League,International,1,0
+Motherwell,National League,International,1,0
+FC St. Gallen,National League,International,1,0
+Bayern München II,National League,International,1,0
+CD Mirandés,National League,International,1,0
+St. Johnstone FC,National League,International,1,0
+Lillestrøm SK,National League,International,1,0
+Odds BK,National League,International,1,0
+SD Ponferradina,National League,International,1,0
+Doncaster Rovers,National League,International,1,0
+Örebro SK,National League,International,1,0
+Shamrock Rovers,National League,International,1,0
+FSV Zwickau,National League,International,1,0
+1. FC Kaiserslautern,National League,International,1,0
+Portsmouth,National League,International,1,0
+Waasland-Beveren,National League,International,1,0
+Ipswich Town,National League,International,1,0
+Dundalk,National League,International,1,0
+CD Huachipato,National League,International,1,0
+Le Mans FC,National League,International,1,0
+Strømsgodset IF,National League,International,1,0
+Sepsi OSK,National League,International,1,0
+Sparta Rotterdam,National League,International,1,0
+FC Admira Wacker Mödling,National League,International,1,0
+SønderjyskE,National League,International,1,0
+Hallescher FC,National League,International,1,0
+SKN St. Pölten,National League,International,1,0
+MSV Duisburg,National League,International,1,0
+La Berrichonne de Châteauroux,National League,International,1,0
+FC Hansa Rostock,National League,International,1,0
+Incheon United FC,National League,International,1,0
+Shonan Bellmare,National League,International,1,0
+Orlando Pirates,National League,International,1,0
+FK Bodø/Glimt,National League,International,1,0
+Lincoln City,National League,International,1,0
+Brisbane Roar,National League,International,1,0
+Eintracht Braunschweig,National League,International,1,0
+Curicó Unido,National League,International,1,0
+Falkenbergs FF,National League,International,1,0
+Venezuela,National League,International,1,0
+1. FC Magdeburg,National League,International,1,0
+CD Cobresal,National League,International,1,0
+Aarhus GF,National League,International,1,0
+Salford City,National League,International,1,0
+HJK Helsinki,National League,International,1,0
+Oxford United,National League,International,1,0
+Hobro IK,National League,International,1,0
+Esbjerg fB,National League,International,1,0
+Bolton Wanderers,National League,International,1,0
+SV Mattersburg,National League,International,1,0
+Rotherham United,National League,International,1,0
+SCR Altach,National League,International,1,0
+Gaz Metan Mediaş,National League,International,1,0
+Tromsø IL,National League,International,1,0
+WSG Tirol,National League,International,1,0
+IK Sirius,National League,International,1,0
+Shrewsbury,National League,International,1,0
+Oldham Athletic,National League,International,1,0
+Southend United,National League,International,1,0
+Blackpool,National League,International,1,0
+Coventry City,National League,International,1,0
+Adelaide United,National League,International,1,0
+Ranheim Fotball,National League,International,1,0
+SG Sonnenhof Großaspach,National League,International,1,0
+Matsumoto Yamaga,National League,International,1,0
+Burton Albion,National League,International,1,0
+FC Hermannstadt,National League,International,1,0
+TSV 1860 München,National League,International,1,0
+LKS Lodz,National League,International,1,0
+FC Würzburger Kickers,National League,International,1,0
+TSV Hartberg,National League,International,1,0
+Politehnica Iaşi,National League,International,1,0
+Wellington Phoenix,National League,International,1,0
+Milton Keynes Dons,National League,International,1,0
+Stabæk Fotball,National League,International,1,0
+Wycombe Wanderers,National League,International,1,0
+SV Waldhof Mannheim,National League,International,1,0
+AC Horsens,National League,International,1,0
+Scunthorpe United,National League,International,1,0
+RKC Waalwijk,National League,International,1,0
+Oita Trinita,National League,International,1,0
+St. Mirren,National League,International,1,0
+Bristol Rovers,National League,International,1,0
+Rodez Aveyron Football,National League,International,1,0
+SV Meppen,National League,International,1,0
+Viking FK,National League,International,1,0
+Östersunds FK,National League,International,1,0
+FK Haugesund,National League,International,1,0
+Rochdale,National League,International,1,0
+Colchester United,National League,International,1,0
+Trapani,National League,International,1,0
+Stevenage,National League,International,1,0
+Bradford City,National League,International,1,0
+Livingston FC,National League,International,1,0
+FC Chambly Oise,National League,International,1,0
+Mansfield Town,National League,International,1,0
+SC Preußen Münster,National League,International,1,0
+FC Voluntari,National League,International,1,0
+Accrington Stanley,National League,International,1,0
+Al Adalah,National League,International,1,0
+Lyngby BK,National League,International,1,0
+FC Carl Zeiss Jena,National League,International,1,0
+Viktoria Köln,National League,International,1,0
+Tranmere Rovers,National League,International,1,0
+Silkeborg IF,National League,International,1,0
+Gillingham,National League,International,1,0
+Plymouth Argyle,National League,International,1,0
+Chemnitzer FC,National League,International,1,0
+Mjøndalen IF,National League,International,1,0
+Walsall,National League,International,1,0
+Northampton Town,National League,International,1,0
+Hamilton Academical FC,National League,International,1,0
+Grimsby Town,National League,International,1,0
+Exeter City,National League,International,1,0
+Swindon Town,National League,International,1,0
+Raków Częstochowa,National League,International,1,0
+Chindia Târgovişte,National League,International,1,0
+US Orléans Loiret Football,National League,International,1,0
+Forest Green Rovers,National League,International,1,0
+AFC Wimbledon,National League,International,1,0
+Carlisle United,National League,International,1,0
+Morecambe,National League,International,1,0
+Port Vale,National League,International,1,0
+Cheltenham Town,National League,International,1,0
+Academica Clinceni,National League,International,1,0
+Crawley Town,National League,International,1,0
+Ross County FC,National League,International,1,0
+AFC Eskilstuna,National League,International,1,0
+Macclesfield Town,National League,International,1,0
+Cork City,National League,International,1,0
+Newport County,National League,International,1,0
+Crewe Alexandra,National League,International,1,0
+Leyton Orient,National League,International,1,0
+Cambridge United,National League,International,1,0
+St. Patrick's Athletic,National League,International,1,0
+Bohemian FC,National League,International,1,0
+India,National League,International,1,0
+Finland,National League,International,1,0
+Waterford FC,National League,International,1,0
+Derry City,National League,International,1,0
+Bury,National League,International,1,0
+New Zealand,National League,International,1,0
+GIF Sundsvall,National League,International,1,0
+Sligo Rovers,National League,International,1,0
+Finn Harps,National League,International,1,0
+Seongnam FC,National League,International,1,0
+UCD AFC,National League,International,1,0
+Śląsk Wrocław,National League,International,1,0
