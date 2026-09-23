@@ -10,26 +10,15 @@
 
 ## 1. Descripción de la Solución
 
-Esta actividad implementa la tercera fase fundamental del ciclo de vida de Big Data: **Enriquecimiento e Integración de Datos Heterogéneos**. En esta etapa se combinan los datos base limpios con fuentes complementarias en múltiples formatos para potenciar las capacidades analíticas previas al modelado (Actividad 4).
+Esta actividad implementa la tercera fase fundamental del ciclo de vida de Big Data: **Enriquecimiento e Integración de Datos Heterogéneos**. En esta etapa se combinan los datos base limpios con fuentes complementarias en **6 formatos distintos (JSON, CSV, XML, HTML, TXT, XLSX)** para potenciar las capacidades analíticas previas a la etapa de modelado (Actividad 4).
 
-### Flujo del Pipeline de Enriquecimiento:
-1. **Carga del Dataset Base:** Extracción de 18,278 registros de jugadores y preparación del esquema analítico base.
-2. **Lectura de Fuentes Adicionales Multiformato:**
-   - 📄 **JSON (`src/data/countries_info.json`):** Catálogo de 162 países con continente, confederación FIFA (UEFA, CONMEBOL, etc.), código ISO-3 y nivel de ranking.
-   - 📊 **CSV (`src/data/club_leagues.csv`):** Catálogo de 698 clubes con nombre de liga, país de la liga, categoría y bandera de pertenencia a las Top 5 ligas europeas.
-3. **Cruce e Integración de Información (Joins):**
-   - Integración mediante `LEFT JOIN` (merge) utilizando como claves de enlace `nationality` y `club`.
-   - Garantía de **cero pérdida de registros** (18,278 registros preservados al 100%).
-4. **Ingeniería de Características Enriquecidas:**
-   - **`wage_tier`:** Clasificación salarial en 4 estratos (*Base*, *Medio*, *Alto*, *Elite*).
-   - **`market_value_tier`:** Segmentación por valor de mercado (*Desarrollo*, *Profesional*, *Estelar*, *Superstar*).
-   - **`is_intercontinental`:** Identificación de talentos no europeos compitiendo en ligas top de Europa.
-   - **`star_rating_index`:** Índice compuesto ponderado de rendimiento deportivo (70%) y valor comercial (30%).
-5. **Almacenamiento y Generación de Evidencias:**
-   - Almacenamiento en SQLite (`src/db/ingestion.db`) en la tabla `enriched_players`.
-   - Generación de muestra representativa en Excel [`src/xlsx/enriched_data.xlsx`](src/xlsx/enriched_data.xlsx).
-   - Generación de reporte de auditoría [`src/static/auditoria/enriched_report.txt`](src/static/auditoria/enriched_report.txt).
-6. **Automatización con GitHub Actions:** Pipeline en [`.github/workflows/bigdata.yml`](.github/workflows/bigdata.yml) que ejecuta el flujo completo y publica los artefactos.
+### Fuentes Heterogéneas Integradas (6 Formatos):
+1. 📄 **JSON (`src/data/countries_info.json`):** Catálogo de 162 países con continente, confederación FIFA (UEFA, CONMEBOL, etc.), código ISO-3 y ranking tier (Cruce por `nationality`).
+2. 📊 **CSV (`src/data/club_leagues.csv`):** Catálogo de 698 clubes con nombre de liga, país de liga, categoría y bandera de ligas Top 5 (Cruce por `club`).
+3. 🏷️ **XML (`src/data/stadiums_info.xml`):** Información estructurada en XML con nombre de estadio y capacidad de aforo por club (Cruce por `club`).
+4. 🌐 **HTML (`src/data/national_trophies.html`):** Tabla web HTML con títulos de Copas del Mundo y trofeos continentales por país (Cruce por `nationality`).
+5. 📝 **TXT (`src/data/player_contracts_status.txt`):** Archivo plano delimitado por pipe (`|`) con nivel de contrato y estrellas de reputación (Cruce por `sofifa_id`).
+6. 📑 **XLSX (`src/data/sponsorship_tiers.xlsx`):** Hoja de cálculo Excel con información de patrocinadores principales y categoría comercial (Cruce por `club`).
 
 ---
 
@@ -47,8 +36,12 @@ Tarea_3/
 │       └── bigdata.yml               <- Pipeline de GitHub Actions
 └── src/
     ├── data/
-    │   ├── countries_info.json       <- Fuente complementaria en JSON
-    │   └── club_leagues.csv          <- Fuente complementaria en CSV
+    │   ├── countries_info.json       <- Fuente 1: JSON
+    │   ├── club_leagues.csv          <- Fuente 2: CSV
+    │   ├── stadiums_info.xml         <- Fuente 3: XML
+    │   ├── national_trophies.html    <- Fuente 4: HTML
+    │   ├── player_contracts_status.txt<- Fuente 5: TXT
+    │   └── sponsorship_tiers.xlsx    <- Fuente 6: XLSX
     ├── enrichement.py                <- Script principal de enriquecimiento
     ├── enrichment.py                 <- Alias de compatibilidad
     ├── db/
@@ -57,7 +50,7 @@ Tarea_3/
     │   └── enriched_data.xlsx        <- Muestra representativa enriquecida en Excel
     └── static/
         └── auditoria/
-            └── enriched_report.txt   <- Reporte de auditoria de integracion
+            └── enriched_report.txt   <- Reporte de auditoria multiformato
 ```
 
 ---
@@ -110,14 +103,14 @@ El archivo [`.github/workflows/bigdata.yml`](.github/workflows/bigdata.yml) se e
 
 ---
 
-## 5. Resumen del Reporte de Auditoría (Resultados de Integración)
+## 5. Resumen del Reporte de Auditoría Multiformato
 
-| Dimensión / Métrica | Dataset Base | Dataset Enriquecido | Resultado del Cruce |
-| :--- | :---: | :---: | :---: |
-| **Total Registros** | 18,278 | 18,278 | **100% registros preservados** (0 pérdidas) |
-| **Total Columnas** | 24 | 36 | **+12 nuevas columnas analíticas** |
-| **Cruce Países (JSON)** | - | 18,278 | **100.00% match rate** (`nationality`) |
-| **Cruce Clubes (CSV)** | - | 18,278 | **100.00% match rate** (`club`) |
-| **Talentos Intercontinentales** | - | 147 | Identificados exitosamente |
-| **Jugadores en Top 5 Ligas** | - | 596 | Identificados exitosamente |
-| **Estado de Integridad** | Base | Enriquecido | **EXITOSO - Listo para Modelado (EA4)** |
+| Formato de Origen | Archivo | Clave de Enlace | Tasa de Cruce | Atributos Agregados |
+| :---: | :--- | :---: | :---: | :--- |
+| **JSON** | `countries_info.json` | `nationality` | **100.00%** | Continente, confederación FIFA, ISO-3, ranking tier |
+| **CSV** | `club_leagues.csv` | `club` | **100.00%** | Liga, país de liga, división, flag Top 5 ligas |
+| **XML** | `stadiums_info.xml` | `club` | **100.00%** | Nombre de estadio, capacidad de aforo |
+| **HTML** | `national_trophies.html` | `nationality` | **100.00%** | Títulos de Copa del Mundo y trofeos continentales |
+| **TXT** | `player_contracts_status.txt` | `sofifa_id` | **100.00%** | Nivel de contrato, estrellas de reputación |
+| **XLSX** | `sponsorship_tiers.xlsx` | `club` | **100.00%** | Patrocinador principal, categoría de patrocinio |
+| **Total Pipeline** | **6 Formatos** | **Relacional** | **100.00%** | **+20 nuevas columnas analíticas (44 total)** |
